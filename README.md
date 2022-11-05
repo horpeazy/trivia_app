@@ -2,7 +2,7 @@
 
 ## Trivia App
 
-This goal of this application is to create a bonding experiences for people. I got the idea to hold trivia on a regular basis and created a webpage to manage the trivia app and play the game, but their API experience is limited and still needs to be built out.
+This goal of this application is to create a bonding experiences for people. I got the idea to hold trivia on a regular basis and created a webpage to manage the trivia app and play the game, the main focus of the prject is strengthning my skills on building out API'S.
 
 Some of the features of this applications includes:
 
