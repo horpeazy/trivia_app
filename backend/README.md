@@ -48,14 +48,7 @@ flask run --reload
 
 The `--reload` flag will detect file changes and restart the server automatically.
 
-## To Do Tasks
-
-These are the files you'd want to edit in the backend:
-
-1. `backend/flaskr/__init__.py`
-2. `backend/test_flaskr.py`
-
-One note before you delve into your tasks: for each endpoint, you are expected to define the endpoint and response data. The frontend will be a plentiful resource because it is set up to expect certain endpoints and response data formats already. You should feel free to specify endpoints in your own way; if you do so, make sure to update the frontend or you will get some unexpected behavior.
+Listed below are some of the major task i had to overcome while carryong out the task:
 
 1. Use Flask-CORS to enable cross-domain requests and set response headers.
 2. Create an endpoint to handle `GET` requests for questions, including pagination (every 10 questions). This endpoint should return a list of questions, number of total questions, current category, categories.
@@ -70,8 +63,6 @@ One note before you delve into your tasks: for each endpoint, you are expected t
 ## Endpoints Documentation
 
 Documentation of available API endpoints including the URL, request parameters, and the response body
-
-<!-- ### Documentation Example -->
 
 ### `GET '/categories'`
 
