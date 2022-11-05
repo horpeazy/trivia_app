@@ -53,15 +53,8 @@ Currently, when a user plays the game they play up to five questions of the chos
 
 You can optionally update this game play to increase the number of questions or whatever other game mechanics you decide. Make sure to specify the new mechanics of the game in the README of the repo you submit so the reviewers are aware that the behavior is correct.
 
-> **Spoiler Alert:** If needed, there are details below regarding the expected endpoints and behavior. But, ONLY look at them if necessary. Give yourself the opportunity to practice understanding code first!
 
----
-
----
-
-## DO NOT PROCEED: ENDPOINT SPOILERS
-
-> Only read the below to confirm your notes regarding the expected API endpoint behavior based on reading the frontend codebase.
+## ENDPOINTS
 
 ### Expected endpoints and behaviors
 
