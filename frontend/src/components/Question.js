@@ -21,10 +21,10 @@ class Question extends Component {
         <div className="Question-status">
           <img
             className="category"
-            alt={`${category?.toLowerCase()}`}
-            src={`${category?.toLowerCase()}.svg`}
-          />
-          <div className="difficulty">Difficulty: {difficulty}</div>
+            alt={`${category && category.toLowerCase()}`}
+            src={`${category && category.toLowerCase()}.svg`}
+          />          
+	  <div className="difficulty">Difficulty: {difficulty}</div>
           <img
             src="delete.png"
             alt="delete"
